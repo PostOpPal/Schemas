@@ -1,0 +1,9 @@
+{
+    "title": "EmailConfirmTask",
+    "description": "Task information to send an email to confirm a user",
+    "type":"object",
+    "properties":{
+        "email":{"type":"string"}
+    },
+    "required": ["email"]
+}
