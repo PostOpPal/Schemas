@@ -1,5 +1,5 @@
 {
-    "$id","https://raw.githubusercontent.com/PostOpPal/Schemas/master/UserService/login_request.json",
+    "$id":"https://raw.githubusercontent.com/PostOpPal/Schemas/master/UserService/login_request.json",
     "title": "LoginRequest",
     "description": "User login details to request a jwt",
     "type":"object",
