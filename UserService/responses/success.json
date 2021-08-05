@@ -1,5 +1,5 @@
 {
-    "$id":"https://raw.githubusercontent.com/PostOpPal/Schemas/master/UserService/success.json",
+    "$id":"https://raw.githubusercontent.com/PostOpPal/Schemas/master/responses/UserService/success.json",
     "title": "Success",
     "description": "Information about the success of the request",
     "type":"object",
