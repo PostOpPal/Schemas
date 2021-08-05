@@ -1,0 +1,11 @@
+{
+    "$id":"https://raw.githubusercontent.com/PostOpPal/Schemas/master/UserService/tokens/email_confirm_token.json",
+    "title": "Email_Confirm_Token",
+    "description": "A token to confirm a users email",
+    "type":"object",
+    "properties":{
+        "type":{"type":"string"},
+        "email":{"type":"string"}
+    },
+    "required": ["type","email"]
+}
