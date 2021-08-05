@@ -1,7 +1,7 @@
 {
     "$id":"https://raw.githubusercontent.com/PostOpPal/Schemas/master/UserService/success.json",
     "title": "Success",
-    "description": "Informatoin about the success of the request",
+    "description": "Information about the success of the request",
     "type":"object",
     "properties":{
         "success":{"type":"boolean"},
