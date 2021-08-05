@@ -1,6 +1,6 @@
 {
     "$id":"https://raw.githubusercontent.com/PostOpPal/Schemas/master/UserServiceWorker/tasks/email_confirm_task.json",
-    "title": "EmailConfirmTask",
+    "title": "Email_Confirm_Task",
     "description": "Task information to send an email to confirm a user",
     "type":"object",
     "properties":{

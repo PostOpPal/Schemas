@@ -1,6 +1,6 @@
 {
     "$id":"https://raw.githubusercontent.com/PostOpPal/Schemas/master/UserService/responses/login_response.json",
-    "title": "LoginResponse",
+    "title": "Login_Response",
     "description": "JWT for the authenticated user",
     "type":"object",
     "properties":{

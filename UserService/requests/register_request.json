@@ -1,6 +1,6 @@
 {
     "$id":"https://raw.githubusercontent.com/PostOpPal/Schemas/master/UserService/requests/register_request.json",
-    "title": "RegisterRequest",
+    "title": "Register_Request",
     "description": "Request to register as a user",
     "type":"object",
     "properties":{
